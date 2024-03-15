@@ -1,0 +1,43 @@
+#card1{
+    width: 500px;
+    border: 0px;
+   
+}
+#card2{
+    border: 0px;
+}
+#result{
+    width: 150px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+#two,#one,#three{
+    margin-left: 100px;
+}
+input{
+    width: 100px;
+    border: 0px;
+}
+input:hover{
+    background-color:cadetblue;
+}
+#one{
+    margin-top: 10px;
+}
+#but1,#but2,#but0{
+    color:brown;
+}
+#result:hover{
+    background-color: burlywood;
+}
+#three{
+    margin-top: 30px;
+    margin-left: 130px;
+}
+#ten{
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#six{
+    margin-left: 30%;
+}
